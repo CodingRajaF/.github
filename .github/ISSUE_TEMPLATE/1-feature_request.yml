@@ -27,8 +27,8 @@ body:
   - type: textarea
     id: alternatives
     attributes:
-      label: 代替案・別アプローチ
-      description: 他に検討したやり方があれば
+      label: その方法を選んだ理由
+      description: なぜその方法を選んだのか
     validations:
       required: false
 
